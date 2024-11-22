@@ -21,7 +21,7 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/alapan-pal_smartindiahackathon-teamundefineddevelopers-activity-7263247921377099776-LqMQ?utm_source=share&utm_medium=member_desktop">Reached SIH 2024 Finals</a></li>
-  ###
+  
 
 <br clear="both">
 
