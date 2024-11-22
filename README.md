@@ -21,6 +21,13 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/alapan-pal_smartindiahackathon-teamundefineddevelopers-activity-7263247921377099776-LqMQ?utm_source=share&utm_medium=member_desktop">Reached SIH 2024 Finals</a></li>
+  ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codeAlapan/codeAlapan/output/snake.svg" alt="Snake animation" />
+
+###
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/alapan-pal" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeAlapan&show_icons=true&locale=en" alt="codeAlapan" /></p>
